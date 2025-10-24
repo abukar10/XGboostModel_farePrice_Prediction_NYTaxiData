@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://github.com/abukar10/nyc-taxi-xgboost-lab/blob/main/outlier_analysis.png" alt="Outlier Analysis - NYC Taxi" width="90%">
+  <img src="https://github.com/abukar10/XGboostModel_farePrice_Prediction_NYTaxiData/blob/main/outlier_detection.PNG" 
+       alt="Outlier Analysis - NYC Taxi" width="90%">
 </p>
 
 <p align="center"><i>Outlier Analysis — 5 Million NYC Taxi Trip Data Points</i></p>
+
 
 <h1 align="center">🚕 NYC Taxi XGBoost Lab</h1>
 <h3 align="center">GPU-accelerated machine learning workflow on 2023 NYC Yellow Taxi data using XGBoost and RAPIDS (cuDF, RMM)</h3>
