@@ -6,7 +6,7 @@
 <p align="center"><i>Outlier Analysis — 5 Million NYC Taxi Trip Data Points</i></p>
 
 
-<h1 align="center">🚕 NYC Taxi XGBoost Lab</h1>
+<h1 align="center">🚕 ML Algorithm: XGBOOST for Predictive Modelling</h1>
 <h3 align="center">GPU-accelerated machine learning workflow on 2023 NYC Yellow Taxi data using XGBoost and RAPIDS (cuDF, RMM)</h3>
 
 ---
