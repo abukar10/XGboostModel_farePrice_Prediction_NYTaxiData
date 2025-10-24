@@ -27,22 +27,30 @@ You can download the dataset directly from the city’s open-data portal:
 
 After downloading, place the file in your Google Drive (in the same folder as the ipynb file)
 
-🧾 Acknowledgments
+---
 
-This repository builds upon the open educational project developed by Mariya Sha
- as part of the Python Simplified
- YouTube learning initiative.
-The foundational implementation — including the data ingestion pipeline, GPU-accelerated processing with RAPIDS cuDF, and model training using XGBoost — originates from her publicly available instructional materials.
+## 🧾✨ **Acknowledgments**
 
-This version extends the original project with:
+> This repository builds upon the open educational project developed by **[Mariya Sha](https://github.com/MariyaSha)**,  
+> as part of the **[Python Simplified](https://www.youtube.com/@PythonSimplified)** YouTube learning initiative.  
 
-Additional data visualization tools to highlight and interpret anomalies and outliers in the NYC Yellow Taxi dataset
+The foundational implementation — including the data ingestion pipeline, GPU-accelerated processing with **RAPIDS cuDF**,  
+and model training using **XGBoost** — originates from her publicly available instructional materials.  
 
-Minor workflow refinements for improved performance and reproducibility within Google Colab
+💡 **This version extends the original project with:**  
+- 📊 Enhanced **visualizations** to identify and interpret **anomalies and outliers** in the NYC Yellow Taxi dataset  
+- ⚙️ Minor workflow optimizations for **Google Colab** compatibility and improved reproducibility  
 
-All credit for the original concept, structure, and educational design belongs to Mariya Sha and the Python Simplified team.
-This derivative work is intended solely for educational and exploratory purposes.
+All credit for the original concept, structure, and educational design belongs to  
+**Mariya Sha** and the **Python Simplified** team.  
 
-🔑 Keywords
+> 🧠 *This derivative work is intended solely for educational and exploratory purposes.*
 
-machine learning, data science, xgboost, cudf, rapids, python, pandas, gpu acceleration, anomaly detection, big data, nyc taxi, portfolio project, google colab, ai visualization, python simplified
+---
+
+### 🔑 **Keywords**
+`machine learning`, `data science`, `xgboost`, `cudf`, `rapids`, `python`, `pandas`, `gpu acceleration`,  
+`anomaly detection`, `big data`, `nyc taxi`, `portfolio project`, `google colab`, `ai visualization`, `python simplified`
+
+---
+
