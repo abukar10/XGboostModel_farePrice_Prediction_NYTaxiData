@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/abukar10/XGboostModel_farePrice_Prediction_NYTaxiData/blob/main/outlier_detection.PNG" 
+  <img src="https://github.com/abukar10/XGboostModel_farePrice_Prediction_NYTaxiData/blob/main/outlier_detection1.PNG" 
        alt="Outlier Analysis - NYC Taxi" width="90%">
 </p>
 
