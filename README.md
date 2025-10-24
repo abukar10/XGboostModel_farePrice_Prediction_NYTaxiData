@@ -9,6 +9,8 @@ This project demonstrates how to train an XGBoost regression model on NYC Yellow
    - [NYC_Taxi_XGBoost_Abukar.ipynb](./NYC_Taxi_XGBoost_Abukar.ipynb)
 2. Run all cells step-by-step.
 3. Mount your Google Drive when prompted so data and results persist.
+4. Due to the size of the DATA, it was not possible to upload the raw data. so make the data is uploaded and saved in the same drive as the notebook.
+5. one you have the data, make sure your defined datapath is correct: ok!  
 
 ---
 
