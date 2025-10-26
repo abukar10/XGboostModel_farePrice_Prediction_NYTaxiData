@@ -26,6 +26,12 @@ This project demonstrates how to train an **XGBoost regression model** on **NYC 
 
 ---
 
+
+## 📦 More Info about NYC OpenData.  
+follow this link to look the details of the data features. i.e how the data are captured via the Taxi Technology Service Provider
+https://data.cityofnewyork.us/Transportation/2023-Yellow-Taxi-Trip-Data/4b4i-vvec/about_data
+
+
 ## 📦 Dataset
 The project uses **NYC Yellow Taxi Trip Records** provided by the **New York City Taxi & Limousine Commission (TLC)**.  
 You can download the dataset directly from the city’s open-data portal:
